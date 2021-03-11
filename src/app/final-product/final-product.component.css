@@ -1,0 +1,8 @@
+.mat-card{
+    height: 600px;
+    background-image: url('../../assets/img/image.jpg');
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}

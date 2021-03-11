@@ -1,0 +1,13 @@
+.mat-card{
+    height: 600px;
+    background-image: url('../../assets/img/image.jpg');
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.mat-raised-button{
+    margin-left: 40%;
+    height: 40px;
+    width: 200px;
+}

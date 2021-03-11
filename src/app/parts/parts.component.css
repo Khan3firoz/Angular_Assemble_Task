@@ -1,0 +1,53 @@
+.card{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 2%;
+    margin-bottom: 20px;
+}
+
+.mat-card{
+    height: 300px;
+    width: 200px;
+    background-color: antiquewhite;
+    background-size: cover;
+    cursor: pointer;
+    font-size: x-large;
+
+}
+a{
+    margin-right: 40px;
+}
+.sheet{
+    background-image: url('../../assets/img/parts/sheet.jpg');
+}
+.wheel{
+    background-image: url('../../assets/img/parts/wheel.jpg');
+}
+.handle{
+    background-image: url('../../assets/img/parts/handle.jpg');
+}
+.frame{
+    background-image: url('../../assets/img/parts/frame.jpg');
+}
+.frontwheel{
+    background-image: url('../../assets/img/parts/frontwheel.jpg');
+}
+.one{
+    background-image: url('../../assets/img/parts/1.jpg');
+
+}
+.two{
+    background-image: url('../../assets/img/parts/4.jpg');
+
+}
+.three{
+    background-image: url('../../assets/img/parts/8.jpg');
+
+}
+div.scroll{
+    margin: 4px, 4px;
+    padding: 4px;
+    width: 95%;
+    overflow: auto;
+    white-space:nowrap;
+}
